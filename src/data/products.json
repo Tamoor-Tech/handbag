@@ -1,0 +1,352 @@
+[
+  {
+    "id": "prod-001",
+    "handle": "the-verona-crossbody",
+    "name": "The Verona Crossbody",
+    "tagline": "Architectural silhouette meets effortless everyday grace",
+    "category": "Crossbody",
+    "priceGBP": 345,
+    "priceUSD": 440,
+    "compareAtPriceGBP": 395,
+    "compareAtPriceUSD": 510,
+    "rating": 4.9,
+    "reviewCount": 128,
+    "badge": "Iconic",
+    "isFeatured": true,
+    "isNew": false,
+    "origin": "Florence, Italy",
+    "material": "Full-grain Italian Calfskin",
+    "lining": "Water-resistant sueded microfibre",
+    "hardware": "Brushed Solid Brass 24k Electroplated",
+    "dimensions": {
+      "cm": "24.5 cm (W) × 18.0 cm (H) × 8.5 cm (D)",
+      "inches": "9.6\" (W) × 7.1\" (H) × 3.3\" (D)"
+    },
+    "weight": {
+      "kg": "0.64 kg",
+      "lbs": "1.41 lbs"
+    },
+    "strapDrop": {
+      "cm": "48 – 56 cm (adjustable)",
+      "inches": "19.0\" – 22.0\" (adjustable)"
+    },
+    "colors": [
+      {
+        "name": "Saddle Tan",
+        "hex": "#8A5229",
+        "primaryImage": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=1000&q=80",
+        "secondaryImage": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=1000&q=80"
+      },
+      {
+        "name": "Onyx Black",
+        "hex": "#141414",
+        "primaryImage": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=1000&q=80",
+        "secondaryImage": "https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?auto=format&fit=crop&w=1000&q=80"
+      },
+      {
+        "name": "Royal Burgundy",
+        "hex": "#5E1A24",
+        "primaryImage": "https://images.unsplash.com/photo-1600857544200-b2f666a9a2ec?auto=format&fit=crop&w=1000&q=80",
+        "secondaryImage": "https://images.unsplash.com/photo-1591561954557-26941169b49e?auto=format&fit=crop&w=1000&q=80"
+      },
+      {
+        "name": "Tuscan Cream",
+        "hex": "#EDE5D8",
+        "primaryImage": "https://images.unsplash.com/photo-1594223274512-ad4803739b7c?auto=format&fit=crop&w=1000&q=80"
+      }
+    ],
+    "description": "Crafted from hand-selected full-grain vegetable-tanned leather in our Tuscan atelier, The Verona is sculpted with crisp bevelled corners, hand-painted edges, and a signature interlocking brass turn-lock clasp. Sized perfectly to carry your smartphone, compact wallet, keys, and lip treatment.",
+    "details": [
+      "Magnetic flap closure with custom solid brass turn-lock",
+      "Interior slip pocket and zip compartment with leather pull",
+      "Exterior discreet slip pocket for passport or transit card",
+      "Reinforced base with four protective brass feet",
+      "Supplied in a bespoke organic cotton dust bag"
+    ],
+    "care": "Store in the provided dust bag away from direct sunlight. Treat with organic leather balm twice yearly. Wipe dry immediately if exposed to rain."
+  },
+  {
+    "id": "prod-002",
+    "handle": "the-celeste-tote",
+    "name": "The Céleste Structured Tote",
+    "tagline": "The standard of elevated professional elegance",
+    "category": "Tote",
+    "priceGBP": 495,
+    "priceUSD": 630,
+    "compareAtPriceGBP": null,
+    "compareAtPriceUSD": null,
+    "rating": 5.0,
+    "reviewCount": 94,
+    "badge": "Bestseller",
+    "isFeatured": true,
+    "isNew": false,
+    "origin": "Florence, Italy",
+    "material": "Full-grain Semi-aniline Vachetta Leather",
+    "lining": "Plush beige microsuede with leather trim",
+    "hardware": "Light Champagne Gold Hardware",
+    "dimensions": {
+      "cm": "37.0 cm (W) × 28.5 cm (H) × 14.0 cm (D)",
+      "inches": "14.5\" (W) × 11.2\" (H) × 5.5\" (D)"
+    },
+    "weight": {
+      "kg": "0.98 kg",
+      "lbs": "2.16 lbs"
+    },
+    "strapDrop": {
+      "cm": "26.0 cm",
+      "inches": "10.2\""
+    },
+    "colors": [
+      {
+        "name": "Onyx Black",
+        "hex": "#141414",
+        "primaryImage": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=1000&q=80",
+        "secondaryImage": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=1000&q=80"
+      },
+      {
+        "name": "Saddle Tan",
+        "hex": "#8A5229",
+        "primaryImage": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=1000&q=80",
+        "secondaryImage": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=1000&q=80"
+      },
+      {
+        "name": "Tuscan Cream",
+        "hex": "#EDE5D8",
+        "primaryImage": "https://images.unsplash.com/photo-1594223274512-ad4803739b7c?auto=format&fit=crop&w=1000&q=80"
+      }
+    ],
+    "description": "Architected to house a 14-inch laptop alongside daily essentials without compromising on sculptural form. The Céleste features a partitioned interior with a central padded zipped compartment, luggage sleeve, and structured rolled handles.",
+    "details": [
+      "Fits up to 14\" MacBook Pro comfortably",
+      "Central padded zippered compartment plus 2 open gussets",
+      "Detachable key leash with engraved brass fob",
+      "Hidden magnetic top tab closure",
+      "Dual rolled handles with reinforced core for shoulder comfort"
+    ],
+    "care": "Gently wipe with soft damp cloth. Condition leather periodically. Avoid overstuffing beyond recommended weight."
+  },
+  {
+    "id": "prod-003",
+    "handle": "the-seraphina-shoulder",
+    "name": "The Seraphina Baguette",
+    "tagline": "Nineties minimalism reimagined in butter-soft nappa",
+    "category": "Shoulder",
+    "priceGBP": 310,
+    "priceUSD": 395,
+    "compareAtPriceGBP": 360,
+    "compareAtPriceUSD": 460,
+    "rating": 4.8,
+    "reviewCount": 76,
+    "badge": "New Arrival",
+    "isFeatured": true,
+    "isNew": true,
+    "origin": "Porto, Portugal",
+    "material": "Buttery Italian Nappa Leather",
+    "lining": "Tonal woven organic linen-cotton blend",
+    "hardware": "Brushed Antique Gold",
+    "dimensions": {
+      "cm": "27.0 cm (W) × 14.5 cm (H) × 6.5 cm (D)",
+      "inches": "10.6\" (W) × 5.7\" (H) × 2.6\" (D)"
+    },
+    "weight": {
+      "kg": "0.45 kg",
+      "lbs": "0.99 lbs"
+    },
+    "strapDrop": {
+      "cm": "23.0 cm",
+      "inches": "9.1\""
+    },
+    "colors": [
+      {
+        "name": "Royal Burgundy",
+        "hex": "#5E1A24",
+        "primaryImage": "https://images.unsplash.com/photo-1600857544200-b2f666a9a2ec?auto=format&fit=crop&w=1000&q=80",
+        "secondaryImage": "https://images.unsplash.com/photo-1591561954557-26941169b49e?auto=format&fit=crop&w=1000&q=80"
+      },
+      {
+        "name": "Onyx Black",
+        "hex": "#141414",
+        "primaryImage": "https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?auto=format&fit=crop&w=1000&q=80",
+        "secondaryImage": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=1000&q=80"
+      },
+      {
+        "name": "Tuscan Cream",
+        "hex": "#EDE5D8",
+        "primaryImage": "https://images.unsplash.com/photo-1594223274512-ad4803739b7c?auto=format&fit=crop&w=1000&q=80"
+      }
+    ],
+    "description": "The Seraphina slips effortlessly under the arm with a curved ergonomic top line. Its supple nappa leather feels like liquid silk to the touch while retaining an impeccably tailored silhouette for candlelit evenings and weekend city strolls.",
+    "details": [
+      "Ultra-smooth two-way brass zip with elongated leather pullers",
+      "Interior card slot (holds up to 4 credit cards)",
+      "Sculpted shoulder strap designed to sit flat without slipping",
+      "Hand-finished lacquered edges in three coats"
+    ],
+    "care": "Protect against sharp jewellery and harsh perfumes. Store stuffed with acid-free tissue paper."
+  },
+  {
+    "id": "prod-004",
+    "handle": "the-monaco-evening-clutch",
+    "name": "The Monaco Flap Clutch",
+    "tagline": "A jewel of leather craft with a detachable jewel chain",
+    "category": "Clutch",
+    "priceGBP": 265,
+    "priceUSD": 340,
+    "compareAtPriceGBP": null,
+    "compareAtPriceUSD": null,
+    "rating": 4.9,
+    "reviewCount": 52,
+    "badge": "Limited Edition",
+    "isFeatured": true,
+    "isNew": false,
+    "origin": "Florence, Italy",
+    "material": "Croc-embossed Full Grain Calfskin",
+    "lining": "Midnight black velour",
+    "hardware": "Polished 24k Gold Electroplate",
+    "dimensions": {
+      "cm": "22.0 cm (W) × 12.0 cm (H) × 4.5 cm (D)",
+      "inches": "8.7\" (W) × 4.7\" (H) × 1.8\" (D)"
+    },
+    "weight": {
+      "kg": "0.38 kg",
+      "lbs": "0.84 lbs"
+    },
+    "strapDrop": {
+      "cm": "52.0 cm (removable)",
+      "inches": "20.5\" (removable)"
+    },
+    "colors": [
+      {
+        "name": "Onyx Black",
+        "hex": "#141414",
+        "primaryImage": "https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?auto=format&fit=crop&w=1000&q=80",
+        "secondaryImage": "https://images.unsplash.com/photo-1600857544200-b2f666a9a2ec?auto=format&fit=crop&w=1000&q=80"
+      },
+      {
+        "name": "Royal Burgundy",
+        "hex": "#5E1A24",
+        "primaryImage": "https://images.unsplash.com/photo-1591561954557-26941169b49e?auto=format&fit=crop&w=1000&q=80"
+      },
+      {
+        "name": "Saddle Tan",
+        "hex": "#8A5229",
+        "primaryImage": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=1000&q=80"
+      }
+    ],
+    "description": "Seamlessly transitions from a hand-held dinner statement to a delicate shoulder cross-body with its removable hand-linked curb chain. Stamped with fine crocodile grain and finished with hand-burnished edge lacquer.",
+    "details": [
+      "Solid brass jewellery chain with leather shoulder cushion",
+      "Internal vanity mirror compartment",
+      "Six dedicated credit card slots",
+      "Discreet magnetic double clasp with tactile snap"
+    ],
+    "care": "Buff gently with a soft microfibre cloth. Avoid direct contact with hand sanitizers and cosmetics."
+  },
+  {
+    "id": "prod-005",
+    "handle": "the-porto-city-backpack",
+    "name": "The Porto City Backpack",
+    "tagline": "Uncompromising utility wrapped in Portuguese artisanal leather",
+    "category": "Backpack",
+    "priceGBP": 420,
+    "priceUSD": 535,
+    "compareAtPriceGBP": null,
+    "compareAtPriceUSD": null,
+    "rating": 4.9,
+    "reviewCount": 67,
+    "badge": "Travel Ready",
+    "isFeatured": false,
+    "isNew": true,
+    "origin": "Porto, Portugal",
+    "material": "Tumbled Pebble-Grain Calfskin",
+    "lining": "Durable cotton-canvas with water-repellent finish",
+    "hardware": "Brushed Nickel & Brass Hybrid",
+    "dimensions": {
+      "cm": "31.0 cm (W) × 36.0 cm (H) × 13.0 cm (D)",
+      "inches": "12.2\" (W) × 14.2\" (H) × 5.1\" (D)"
+    },
+    "weight": {
+      "kg": "0.89 kg",
+      "lbs": "1.96 lbs"
+    },
+    "strapDrop": {
+      "cm": "60 – 78 cm (adjustable)",
+      "inches": "23.6\" – 30.7\" (adjustable)"
+    },
+    "colors": [
+      {
+        "name": "Saddle Tan",
+        "hex": "#8A5229",
+        "primaryImage": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=1000&q=80",
+        "secondaryImage": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=1000&q=80"
+      },
+      {
+        "name": "Onyx Black",
+        "hex": "#141414",
+        "primaryImage": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=1000&q=80"
+      }
+    ],
+    "description": "Created for cultured commuters and weekend explorers. The Porto pairs a softly contoured silhouette with a secure back-panel anti-theft zip pocket, padded laptop compartment, and ergonomic leather shoulder straps.",
+    "details": [
+      "Accommodates up to 13\" laptops in padded rear pocket",
+      "Concealed passport pocket against your back",
+      "Adjustable ergonomic full-leather straps with shoulder padding",
+      "Drawstring top with flap lock buckle"
+    ],
+    "care": "Spot clean using specialist leather foam. Allow to air dry naturally."
+  },
+  {
+    "id": "prod-006",
+    "handle": "the-florence-weekender",
+    "name": "The Florence Grand Weekender",
+    "tagline": "The supreme companion for 72-hour European getaways",
+    "category": "Travel",
+    "priceGBP": 680,
+    "priceUSD": 860,
+    "compareAtPriceGBP": null,
+    "compareAtPriceUSD": null,
+    "rating": 5.0,
+    "reviewCount": 38,
+    "badge": "Masterpiece",
+    "isFeatured": true,
+    "isNew": false,
+    "origin": "Florence, Italy",
+    "material": "Heavyweight Vegetable-Tanned Tuscan Leather",
+    "lining": "Treated British twill canvas with antique gold accents",
+    "hardware": "Cast Solid Brass Hardware",
+    "dimensions": {
+      "cm": "50.0 cm (W) × 30.0 cm (H) × 24.0 cm (D)",
+      "inches": "19.7\" (W) × 11.8\" (H) × 9.4\" (D)"
+    },
+    "weight": {
+      "kg": "1.85 kg",
+      "lbs": "4.08 lbs"
+    },
+    "strapDrop": {
+      "cm": "85 – 130 cm",
+      "inches": "33.5\" – 51.2\""
+    },
+    "colors": [
+      {
+        "name": "Saddle Tan",
+        "hex": "#8A5229",
+        "primaryImage": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=1000&q=80",
+        "secondaryImage": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=1000&q=80"
+      },
+      {
+        "name": "Onyx Black",
+        "hex": "#141414",
+        "primaryImage": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=1000&q=80"
+      }
+    ],
+    "description": "Hand-stitched in Florence by third-generation master artisans using 2.2mm thick vegetable-tanned leather that develops an extraordinary, one-of-a-kind golden patina over decades of travel. Meets international carry-on requirements.",
+    "details": [
+      "TSA and IATA cabin approved dimensions",
+      "Reinforced double-layered bottom with five brass studs",
+      "Includes engraved brass padlock and leather key clochette",
+      "Heavy-duty YKK Excella two-way brass zip with lockable pullers",
+      "Detachable wide webbing & leather shoulder strap"
+    ],
+    "care": "Apply leather wax once a year to enhance water resistance. Cherish scratches as part of its living story."
+  }
+]
